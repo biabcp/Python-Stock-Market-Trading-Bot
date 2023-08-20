@@ -41,5 +41,8 @@ Always perform thorough research and analysis before making real trading decisio
 Adjust the script for different trading strategies or additional indicators.
 Ensure you have the necessary permissions to access and use stock price data.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 Acknowledgements
 This project is inspired by the interest in stock trading simulations and is provided as-is for educational purposes.
